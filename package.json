@@ -1,0 +1,35 @@
+{
+  "name": "discordgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "discordGo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesDolphin/discordGo.git"
+  },
+  "author": "James Dolphin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesDolphin/discordGo/issues"
+  },
+  "homepage": "https://github.com/JamesDolphin/discordGo#readme",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "discord.js": "^11.5.0",
+    "dotenv": "^6.2.0",
+    "lodash": "^4.17.11",
+    "mongodb": "^3.2.6",
+    "osc-js": "^2.0.3",
+    "public-ip": "^3.1.0",
+    "rcon": "^1.0.3",
+    "srcds-log-receiver": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3"
+  }
+}
